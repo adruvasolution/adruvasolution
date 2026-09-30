@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/adruva-github-banner-v2.png" alt="Adruva Solution GitHub Banner" width="100%" />
+  <img src="./adruva-github-banner-v2.png" alt="Adruva Solution GitHub Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -202,7 +202,7 @@ If you need a premium website, custom business software, AI-powered workflows, a
 ---
 
 <p align="center">
-  <img src="./assets/adruva-logo-icon.png" alt="Adruva Solution Icon" width="70" />
+  <img src="./adruva-logo-icon.png" alt="Adruva Solution Icon" width="70" />
 </p>
 
 <p align="center">
