@@ -1,44 +1,49 @@
 <p align="center">
-  <img src="./assets/adruva-github-banner.svg" alt="Adruva Solution — Engineering digital growth with precision" width="100%" />
+  <img src="./assets/adruva-github-banner-v2.png" alt="Adruva Solution GitHub Banner" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://adruvasolution.com"><img src="https://img.shields.io/badge/Website-adruvasolution.com-4453E8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2600&pause=900&color=1E7BFF&center=true&vCenter=true&width=980&lines=Technology+%E2%80%A2+AI+Automation+%E2%80%A2+Growth+%E2%80%A2+Creative;Modern+digital+systems+for+ambitious+businesses;Engineered+for+Growth.+Scoped+with+Precision." alt="Typing animation" />
+</p>
+
+<p align="center">
+  <a href="https://adruvasolution.com"><img src="https://img.shields.io/badge/Website-adruvasolution.com-1E7BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="mailto:info@adruvasolution.com"><img src="https://img.shields.io/badge/Email-info%40adruvasolution.com-00A88F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Build-Technology%20%2B%20Growth-0B1220?style=for-the-badge" alt="Technology and Growth" />
+  <img src="https://img.shields.io/badge/Focus-Business%20Growth-0B1220?style=for-the-badge" alt="Business Growth" />
+  <img src="https://img.shields.io/badge/Approach-Tech%20Driven-0B1220?style=for-the-badge" alt="Tech Driven" />
 </p>
 
 <h1 align="center">Adruva Solution</h1>
-<p align="center"><strong>Engineered for Growth. Scoped with Precision.</strong></p>
+<p align="center"><strong>Creativity with code. Systems built for business growth.</strong></p>
 
 <p align="center">
-We design, build and grow digital systems for ambitious businesses — combining engineering, AI, creative execution and measurable growth under one operating model.
+We help businesses build premium digital experiences, stronger operational systems and measurable growth engines through a combination of <strong>technology</strong>, <strong>AI automation</strong>, <strong>creative execution</strong> and <strong>growth strategy</strong>.
 </p>
 
 ---
 
-## What we do
+## 🚀 What Adruva Solution does
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### ⚙️ Technology & Engineering
-- Web applications & business websites
-- Mobile application development
-- Custom software & internal tools
-- E-commerce systems
-- API, backend & platform engineering
+- Business websites and web platforms
+- Custom software and internal tools
+- Dashboards, admin systems and portals
+- Mobile app development
+- E-commerce and CMS implementations
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 AI & Automation
-- AI-powered business workflows
-- AI agents & internal automation
+- Workflow automation systems
+- AI agents and business assistants
+- Process optimization and integrations
 - Data-assisted operations
-- Process orchestration & integrations
-- Applied AI implementation
+- Applied AI for real business use cases
 
 </td>
 </tr>
@@ -46,20 +51,20 @@ We design, build and grow digital systems for ambitious businesses — combining
 <td width="50%" valign="top">
 
 ### 📈 Marketing & Growth
-- SEO & organic growth
-- Performance marketing
-- Social media management
-- Lifecycle & CRM
-- Analytics, experimentation & optimization
+- SEO and organic growth systems
+- Performance marketing support
+- Social media management systems
+- Lifecycle and CRM execution
+- Analytics, reporting and optimization
 
 </td>
 <td width="50%" valign="top">
 
-### ✦ Creative & Experience
-- Brand strategy & identity
-- UI/UX design
-- Creative design systems
-- Video & motion
+### 🎨 Creative & Experience
+- Brand strategy and digital identity
+- UI/UX systems and product design
+- Creative design for business communication
+- Video and motion support
 - Conversion-focused digital experiences
 
 </td>
@@ -68,17 +73,61 @@ We design, build and grow digital systems for ambitious businesses — combining
 
 ---
 
-## How we build
+## 🧠 How we think
 
 ```text
-Discover → Scope → Architect → Design → Build → Validate → Launch → Optimize
+Strategy → Scope → Design → Build → Automate → Launch → Optimize
 ```
 
-We prefer clear ownership, practical architecture and measurable outcomes over unnecessary complexity. Every engagement is scoped around the actual business problem, the operating environment and the stage of growth.
+We do not treat design, engineering and growth as disconnected workstreams. At Adruva Solution, business goals shape the system, the system shapes delivery, and delivery is refined through data and iteration.
 
 ---
 
-## Core technology
+## 🔷 Adruva operating model
+
+```mermaid
+flowchart LR
+    A[Business Goal] --> B[Strategy & Scope]
+    B --> C[Creative & UX]
+    B --> D[Engineering]
+    B --> E[AI Automation]
+    C --> F[Launch System]
+    D --> F
+    E --> F
+    F --> G[SEO • Growth • Performance]
+    G --> H[Optimization & Scale]
+```
+
+---
+
+## 💼 Why businesses come to us
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 01. Premium execution
+We aim for digital work that looks sharp, feels modern and represents businesses professionally.
+
+</td>
+<td width="33%" valign="top">
+
+### 02. Practical systems
+We focus on solutions that teams can actually use, maintain and grow with.
+
+</td>
+<td width="33%" valign="top">
+
+### 03. Business alignment
+Every build is tied to a real outcome — credibility, leads, efficiency, conversion or scale.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Core working stack
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -88,74 +137,64 @@ We prefer clear ownership, practical architecture and measurable outcomes over u
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
 </p>
 
 <details>
-<summary><strong>More of our working stack</strong></summary>
+<summary><strong>See our capability breakdown</strong></summary>
 <br/>
 
 **Frontend:** React, Next.js, Vue, Nuxt, Angular  
-**Backend:** Node.js, NestJS, Fastify, Express, FastAPI, Flask  
-**Data:** PostgreSQL, Supabase  
+**Backend:** Node.js, NestJS, Fastify, Express, Flask, FastAPI  
+**Data & Platform:** PostgreSQL, Supabase  
 **Commerce & CMS:** WordPress, WooCommerce, Shopify  
-**Product systems:** APIs, dashboards, admin panels, automation workflows and custom internal tools
+**Business Systems:** dashboards, portals, workflows, admin systems, custom software, automation tools
 
 </details>
 
 ---
 
-## Engineering principles
+## 📦 What you can expect from this GitHub
 
-| Principle | What it means in practice |
+This profile will become a public surface for selected engineering and business-supporting resources such as:
+
+- open-source tools and utilities
+- reusable UI or workflow components
+- technical experiments and prototypes
+- public implementation examples
+- documentation and developer notes
+- selected non-confidential system patterns
+
+> **Note:** Client-confidential work, internal systems and private delivery assets are intentionally not published here.
+
+---
+
+## 🧭 Repository principles
+
+| Principle | Meaning |
 |---|---|
-| **Scope before build** | Requirements, constraints and ownership are clarified before engineering starts. |
-| **Design for maintainability** | Systems should remain understandable as teams, traffic and features grow. |
-| **Automation where it matters** | Repetitive operational work should be reduced with reliable automation. |
-| **Performance is a feature** | Speed, accessibility, SEO and usability are part of delivery quality. |
-| **Business context first** | Technology choices follow the problem — not the other way around. |
-| **Measure after launch** | We treat launch as the start of optimization, not the end of delivery. |
+| **Clarity first** | Repositories should be easy to understand and easy to start with. |
+| **Maintainable systems** | Clean structure matters more than unnecessary complexity. |
+| **Use-case driven** | We build around real business requirements, not trend-chasing. |
+| **Performance-minded** | Speed, reliability, SEO and usability are all part of quality. |
+| **Automation where useful** | Repetitive work should be simplified through smart systems. |
+| **Growth-aware delivery** | Build decisions should support future growth, not block it. |
 
 ---
 
-## Repository standards
+## 🌐 Work with Adruva Solution
 
-As our public engineering footprint grows, repositories will follow a consistent standard:
-
-- clear project purpose and ownership
-- setup and local-development instructions
-- environment-variable documentation without exposing secrets
-- architecture notes for non-trivial systems
-- conventional issue and pull-request workflows
-- security-conscious dependency and access practices
-- meaningful changelogs and release notes where applicable
-
-> **Note:** Public repositories represent selected engineering work, tooling and open resources. Client-confidential code and internal systems remain private.
-
----
-
-## What you can expect here
-
-We are building this GitHub organization into a useful engineering surface for:
-
-- selected open-source utilities
-- reusable development components
-- technical experiments and proof-of-concepts
-- public documentation and implementation notes
-- engineering examples from non-confidential work
-- internal tooling patterns adapted for public use
-
----
-
-## Work with Adruva Solution
-
-Whether you need a product built, a digital system modernized, an AI workflow implemented or a growth engine improved, the best starting point is a clearly scoped conversation.
+If you need a premium website, custom business software, AI-powered workflows, a cleaner digital system or a stronger growth setup, Adruva Solution is built to help you move with clarity.
 
 <p align="center">
-  <a href="https://adruvasolution.com"><strong>Visit adruvasolution.com →</strong></a>
+  <a href="https://adruvasolution.com"><strong>Visit our website →</strong></a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="mailto:info@adruvasolution.com"><strong>Start a conversation →</strong></a>
 </p>
@@ -163,6 +202,10 @@ Whether you need a product built, a digital system modernized, an AI workflow im
 ---
 
 <p align="center">
-  <sub>Adruva Solution • Technology • AI • Growth • Creative</sub><br/>
-  <sub><strong>Engineered for Growth. Scoped with Precision.</strong></sub>
+  <img src="./assets/adruva-logo-icon.png" alt="Adruva Solution Icon" width="70" />
+</p>
+
+<p align="center">
+  <sub><strong>Adruva Solution</strong> • Technology • AI Automation • Growth • Creative</sub><br/>
+  <sub>Engineered for Growth. Scoped with Precision.</sub>
 </p>
